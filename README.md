@@ -2,7 +2,7 @@
 Big Mart Sales- Analytics Vidya Hackathon
 
 ## Dataset
-Twitter Airline Customer Tweets Dataset.
+Big Mart Sales Dataset.
 
 ## Requirements
 `Python`
